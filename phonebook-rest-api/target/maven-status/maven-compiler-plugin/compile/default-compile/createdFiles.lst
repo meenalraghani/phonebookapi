@@ -1,0 +1,4 @@
+com\meenal\phonebookrestapi\PhonebookRestApiApplication.class
+com\meenal\phonebook\controller\PhoneBookController.class
+com\meenal\phonebook\bean\PhoneBook.class
+com\meenal\phonebook\service\PhoneBookService.class
